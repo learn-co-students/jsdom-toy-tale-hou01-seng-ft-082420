@@ -4,25 +4,25 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 26
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 14
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 9
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 8
     },
     {
       "id": 5,
@@ -46,7 +46,25 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 12
+    },
+    {
+      "name": "Goku",
+      "image": "https://gamewith-en.akamaized.net/img/84ec23f2f1a37cc6b95d2f7e4dbd093c.jpg",
+      "id": 9,
+      "likes": 2
+    },
+    {
+      "name": "Gurren Lagann",
+      "image": "https://bbts1.azureedge.net/images/p/full/2019/06/35f8aa1e-f38c-44aa-9295-fa0655fed188.jpg",
+      "likes": 34,
+      "id": 10
+    },
+    {
+      "name": "Jesse",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/87/Jessie_%28Toy_Story%29.png",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
