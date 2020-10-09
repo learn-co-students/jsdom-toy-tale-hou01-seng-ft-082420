@@ -16,16 +16,16 @@ at `http://localhost:3000/toys`. You can also check out
 `http://localhost:3000/toys/:id`
 
 ## Fetch Andy's Toys
-
+<!-- 
 On the `index.html` page, there is a `div` with the `id` "toy-collection."
 
 When the page loads, make a 'GET' request to fetch all the toy objects. With the
 response data, make a `<div class="card">` for each toy and add it to the
-toy-collection `div`.
+toy-collection `div`. -->
 
 ## Add Toy Info to the Card
 
-Each card should have the following child elements:
+<!-- Each card should have the following child elements:
 
   * `h2` tag with the toy's name
   * `img` tag with the `src` of the toy's image attribute and the class name "toy-avatar"
@@ -41,10 +41,10 @@ After all of that, the toy card should resemble:
     <p>4 Likes </p>
     <button class="like-btn">Like <3</button>
   </div>
-```
+``` -->
 
 ## Add a New Toy
-
+<!-- 
 * When a user submits the toy form, a `POST` request is sent to `http://localhost:3000/toys` and the new toy is added to Andy's Toy Collection.
 * The toy should conditionally render to the page.
 * In order to send a POST request via Fetch, give the Fetch a second argument of an object. This object should specify the method as `POST` and also provide the appropriate headers and the JSON-ified data for the request. If your request isn't working, make sure your header and keys match the documentation.
@@ -64,7 +64,7 @@ body: JSON.stringify({
 })
 ```
 
-* For examples, refer to the [documentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#Supplying_request_options).
+* For examples, refer to the [documentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#Supplying_request_options). -->
 
 ## Increase Toy's Likes
 
