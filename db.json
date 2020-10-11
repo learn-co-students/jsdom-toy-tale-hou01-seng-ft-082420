@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Joe Swanson",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/joe-swanson-family-guy-1550245927.jpg?crop=1xw:1xh;center,top&resize=480:*",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Joe Swanson and friends",
+      "image": "https://i.ytimg.com/vi/VuYzc_VuFRA/maxresdefault.jpg",
+      "likes": 0,
+      "id": 10
     }
   ]
 }
